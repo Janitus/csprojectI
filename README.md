@@ -3,6 +3,23 @@ Admin user info:
 username: admin
 pw: admin
 
+-------------- Instructions --------------
+
+1. Clone this project to your own directory
+2. Navigate there with cmd
+3. python manage.py runserver
+
+On the website you can register, login and change the bio in your account.
+Note that there is one bug upon registering your account (You will receive erorr IntegrityError at /register/ UNIQUE constraint failed: mysite_profile.user_id), but this does not hinder your ability to log in or test the site otherwise.
+
+I have included some test accounts to try, information on them:
+
+Username - Password
+a - 1
+b - 1
+
+-------------- Issues below --------------
+
 Information on five issues:
 
 Format:
