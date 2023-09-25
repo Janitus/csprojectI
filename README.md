@@ -15,7 +15,9 @@ Note that there is one bug upon registering your account (You will receive erorr
 I have included some test accounts to try, information on them:
 
 Username - Password
+
 a - 1
+
 b - 1
 
 -------------- Issues below --------------
